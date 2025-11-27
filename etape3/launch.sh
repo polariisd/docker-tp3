@@ -2,7 +2,6 @@
 # launch.sh - Lancer l'étape 3 avec Docker Compose
 # Pour éviter les conflits, j'ai supprimer tous les containers de l'étape 2
 
-
 # 1. Supprimer d'anciens containers si présents
 
 docker stop http script data 
